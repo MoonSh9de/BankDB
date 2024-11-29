@@ -1,0 +1,11 @@
+C:\KursSDB\KursSDB\x64\Debug\KursSDB.vcxproj.AssemblyReference.cache
+C:\KursSDB\KursSDB\x64\Debug\KursSDB.vcxproj.GenerateResource.cache
+C:\KursSDB\KursSDB\x64\Debug\KursSDB.General.resources
+C:\KursSDB\KursSDB\x64\Debug\KursSDB.ClientsPage.resources
+C:\KursSDB\KursSDB\x64\Debug\KursSDB.AccountsPage.resources
+C:\KursSDB\KursSDB\x64\Debug\KursSDB.CardsPage.resources
+C:\KursSDB\KursSDB\x64\Debug\KursSDB.TransactionsPage.resources
+C:\KursSDB\KursSDB\x64\Debug\KursSDB.LoginPageUser.resources
+C:\KursSDB\KursSDB\x64\Debug\KursSDB.MainPage.resources
+C:\KursSDB\KursSDB\x64\Debug\KursSDB.LoginPageAdmin.resources
+C:\KursSDB\KursSDB\x64\Debug\KursSDB.UserPage.resources

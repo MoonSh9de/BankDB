@@ -1,0 +1,29 @@
+﻿  General.cpp
+C:\KursSDB\KursSDB\General.h(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\KursSDB\KursSDB\Functions.h(3,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\KursSDB\KursSDB\General.h(3,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\KursSDB\KursSDB\General.h(4,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\KursSDB\KursSDB\General.h(5,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  LoginPageAdmin.cpp
+C:\KursSDB\KursSDB\Functions.h(3,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\KursSDB\KursSDB\General.h(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\KursSDB\KursSDB\General.h(3,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\KursSDB\KursSDB\General.h(4,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\KursSDB\KursSDB\General.h(5,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  MainPage.cpp
+C:\KursSDB\KursSDB\Functions.h(3,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\KursSDB\KursSDB\General.h(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\KursSDB\KursSDB\General.h(3,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\KursSDB\KursSDB\General.h(4,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\KursSDB\KursSDB\General.h(5,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\KursSDB\KursSDB\UserPage.h(21,11): warning C4677: UserPage: сигнатура члена, не являющегося частным, содержит частный тип сборки "Clients"
+C:\KursSDB\KursSDB\MainPage.cpp(8,6): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
+  TransactionsPage.cpp
+C:\KursSDB\KursSDB\Functions.h(3,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  Создание кода...
+C:\KursSDB\KursSDB\Functions.h(505,1): warning C4715: Functions::IsCvvExists: значение возвращается не при всех путях выполнения
+C:\KursSDB\KursSDB\Functions.h(505,1): warning C4715: Functions::IsCvvExists: значение возвращается не при всех путях выполнения
+C:\KursSDB\KursSDB\Functions.h(505,1): warning C4715: Functions::IsCvvExists: значение возвращается не при всех путях выполнения
+C:\KursSDB\KursSDB\Functions.h(505,1): warning C4715: Functions::IsCvvExists: значение возвращается не при всех путях выполнения
+  Accounts.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  KursSDB.vcxproj -> C:\KursSDB\x64\Debug\KursSDB.exe
